@@ -23,4 +23,4 @@ async def quote(ctx):
     response = random.choice(responses)
     await ctx.send(response)
 
-client.run("ODQyNjUxNDI0NjU5MDc5MjA4.YJ4aSw.VU17vbNZETlZelrWdS_tQcuh5fY") 
+client.run("paste the token here") 
